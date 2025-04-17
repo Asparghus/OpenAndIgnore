@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Open Links in New Tabs (With Filtering)
 // @namespace    https://gazellegames.net/
+// @version      1.1
 // @description  Opens links in new tabs with a specific format, filtering by parent class.
 // @include      https://gazellegames.net/torrents.php*
 // @exclude      https://gazellegames.net/torrents.php?id*
