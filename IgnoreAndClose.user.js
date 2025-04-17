@@ -6,8 +6,6 @@
 // @author       GeneX
 // @match        https://gazellegames.net/torrents.php?id=*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Asparghus/OpenAndIgnore/main/IgnoreAndClose.js
-// @downloadURL  https://raw.githubusercontent.com/Asparghus/OpenAndIgnore/main/IgnoreAndClose.js
 // ==/UserScript==
 
 (function() {
