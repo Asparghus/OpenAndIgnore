@@ -1,12 +1,10 @@
 // ==UserScript==
 // @name         Open Links in New Tabs (With Filtering)
-// @namespace    https://your-namespace.example.com
+// @namespace    https://gazellegames.net/
 // @description  Opens links in new tabs with a specific format, filtering by parent class.
 // @include      https://gazellegames.net/torrents.php*
 // @exclude      https://gazellegames.net/torrents.php?id*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Asparghus/OpenAndIgnore/main/OpenNotIgnored.js
-// @downloadURL  https://raw.githubusercontent.com/Asparghus/OpenAndIgnore/main/OpenNotIgnored.js
 // ==/UserScript==
 
 (function() {
